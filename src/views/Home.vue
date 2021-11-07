@@ -1,7 +1,11 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <HelloWorld msg="Hi, I'm Sophia" />
+    <img
+      src="../assets/recital-pic.jpeg"
+      alt="Profile Pic"
+      width="400"
+    />
   </div>
 </template>
 
@@ -16,3 +20,15 @@ export default {
   },
 };
 </script>
+
+<style>
+.home{
+  display: inline-flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 200px;
+  justify-content: center;
+
+  flex: 1;
+}
+</style>
