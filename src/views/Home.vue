@@ -1,11 +1,7 @@
 <template>
   <div class="home">
     <HelloWorld msg="Hi, I'm Sophia" />
-    <img
-      src="../assets/recital-pic.jpeg"
-      alt="Profile Pic"
-      width="400"
-    />
+
   </div>
 </template>
 
@@ -23,7 +19,7 @@ export default {
 
 <style>
 .home{
-  display: inline-flex;
+  display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   height: 200px;
