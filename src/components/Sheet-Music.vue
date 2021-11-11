@@ -6,7 +6,7 @@
         <h3>{{ composition.name }}</h3>
         <p>{{ composition.level }}</p>
         <p>{{ composition.instruments }}</p>
-        <button class="auto"><a href="../assets/Files%20for%20website/Stitches.pdf" download="Stitches.pdf" style="text-decoration: none;">Download</a></button>
+        <button class="auto"><a v-bind:href="'/Files-for-website/'+composition.download" v-bind:download="composition.download" style="text-decoration: none;">Download</a></button>
       </div>
     </div>
   </div>

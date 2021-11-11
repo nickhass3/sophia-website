@@ -21,7 +21,7 @@ let mock = [
     name: "The Journey",
     level: "Original Piano Solo",
     instruments: null,
-    download: "",
+    download: "The Journey.mp3",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ let mock = [
     name: "Where Can I Turn for Peace",
     level: "Intermediate",
     instruments: "Piano + Voice/Violin",
-    download: "",
+    download: "Where Can I Turn For Peace.pdf",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ let mock = [
     name: "The Light, the Life, and the Hope",
     level: "Intermediate",
     instruments: "Piano Solo",
-    download: "",
+    download: "The Light The Life and the Hope.pdf",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ let mock = [
     name: "I Saw Three Ships / Bring a Torch, Jeanette, Isabella",
     level: null,
     instruments: "Arrangement for Woodwinds, Strings, Harp",
-    download: "",
+    download: "I Saw Three Ships-Bring a Torch.wav",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ let mock = [
     name: "Loch Lomond",
     level: "Intermediate",
     instruments: "SATB + Piano",
-    download: "",
+    download: "Loch_Lomond.pdf",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ let mock = [
     name: "Ode to Joy",
     level: "Early Beginner",
     instruments: "Piano",
-    download: "",
+    download: "Ode to Joy.pdf",
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ let mock = [
     name: "Deck the Halls",
     level: "Early Beginner",
     instruments: "Piano",
-    download: "",
+    download: "Deck-the-Halls.pdf",
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ let mock = [
     name: "Man in the Mirror",
     level: "Beginner",
     instruments: "Piano",
-    download: "",
+    download: "Man in the Mirror.pdf",
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ let mock = [
     name: "Toreador March",
     level: "Beginner",
     instruments: "Piano",
-    download: "",
+    download: "Toreador March.pdf",
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ let mock = [
     name: "Stitches",
     level: "Beginner",
     instruments: "Piano",
-    download: "",
+    download: "Stitches.pdf",
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ let mock = [
     name: "Fool For You",
     level: "Late Beginner",
     instruments: "Piano",
-    download: "",
+    download: "Fool For You.pdf",
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ let mock = [
     name: "Trust Fund Baby",
     level: "Late Beginner",
     instruments: "Piano",
-    download: "",
+    download: "Trust Fund Baby.pdf",
   },
 ];
 
