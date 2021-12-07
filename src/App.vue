@@ -83,3 +83,24 @@ html, body, #app {
   color: #d5a4b7;
 }
 </style>
+
+<script>
+import axios from "axios";
+export default {
+  created() {
+    console.log('hello');
+    this.getItems();
+  },
+  methods: {
+    async getItems() {
+      try {
+        let response = await axios.get("/api/items");
+        this.items = response.data;
+        return true;
+      } catch (error) {
+        console.log(error);
+      }
+    }
+  }
+}
+</script>

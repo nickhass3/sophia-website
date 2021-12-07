@@ -6,7 +6,6 @@
 
 <script>
 import music from "../components/Sheet-Music.vue";
-
 export default {
   data() {
     return {
