@@ -12,8 +12,8 @@
         <div class="footer">
           <!-- Add font awesome icons -->
           <a href="https://www.linkedin.com/in/sophia-oaks-hass-a63b051b8/" class="fa fa-linkedin"></a>
-          <a href="#" class="fa fa-soundcloud"></a>
-          <a href="#" class="fa fa-instagram"></a>
+          <a href="https://soundcloud.com/sophia-oaks-music" class="fa fa-soundcloud"></a>
+          <a href="https://www.instagram.com/sososophia_/" class="fa fa-instagram"></a>
           <a href="https://www.youtube.com/channel/UCiXbk9EAle8TN_Wek_EQnqw/featured" class="fa fa-youtube"></a>
           <a href="https://github.com/nickhass3/sophia-website" class="fa fa-github"></a>
         </div>
